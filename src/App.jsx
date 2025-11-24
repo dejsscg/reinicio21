@@ -327,7 +327,7 @@ const App = () => {
             <h3 className="text-2xl md:text-3xl font-bold text-white mb-4">❤️‍🔥 ESTE ES TU MOMENTO</h3>
             <p className="text-gray-300 mb-8">21 días pueden cambiar tu vida si cambian tu dirección.</p>
 
-            <a href="https://bizzshop.gumroad.com/l/fdste" className="gumroad-button w-full md:w-auto px-12 py-5 bg-orange-600 hover:bg-orange-500 text-white font-bold rounded-xl text-xl transition-all shadow-[0_0_30px_rgba(234,88,12,0.3)] hover:shadow-[0_0_50px_rgba(234,88,12,0.5)] mb-6 inline-block">
+            <a href="https://bizzshop.gumroad.com/l/fdste" className="w-full md:w-auto px-12 py-5 bg-orange-600 hover:bg-orange-500 text-white font-bold rounded-xl text-xl transition-all shadow-[0_0_30px_rgba(234,88,12,0.3)] hover:shadow-[0_0_50px_rgba(234,88,12,0.5)] mb-6 inline-block">
               👉 DESCARGAR AHORA
               <span className="block text-sm font-normal text-orange-100 mt-1">Empieza hoy el Día 1</span>
             </a>
