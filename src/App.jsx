@@ -15,7 +15,7 @@ const App = () => {
   const scrollToCheckout = () => {
     const checkoutElement = document.getElementById('checkout');
     if (checkoutElement) {
-      checkoutElement.scrollIntoView({ behavior: 'smooth' });
+      checkoutElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
   };
 
